@@ -46,7 +46,7 @@
 
 ## SobreOProjeto
 
-[product-screenshot]](https://siterelaxtime.netlify.app)
+[[product-screenshot]](https://siterelaxtime.netlify.app)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ut efficitur leo. Phasellus eleifend ipsum non nisi mattis sodales. Donec aliquam gravida nibh, vel commodo erat rutrum ut. Etiam elementum orci sed ligula accumsan, sit amet tempor eros posuere. Suspendisse suscipit, elit id gravida dapibus, lectus dui auctor magna, vel luctus ipsum dui a ipsum. Sed faucibus, dolor non iaculis semper, elit tellus blandit velit, non porttitor urna elit at felis. Nulla ultrices felis at lacus eleifend eleifend. Suspendisse eleifend quam a semper accumsan. Curabitur eros turpis, elementum volutpat nisl convallis, pharetra eleifend felis. Quisque faucibus, nisi non euismod ultricies, nunc velit lacinia odio, sit amet ultricies quam nunc id felis.
 
@@ -68,7 +68,7 @@ Para visualizar o projeto, clique no link **abaixo**:
 
 ## Roadmap
 
-Olhe [issues](https://github.com/MariaxClara/RelaxTimer/issues) para uma lista de futuras melhorias e erros descobertos.
+Olhe **[issues]**(https://github.com/MariaxClara/RelaxTimer/issues) para uma lista de futuras melhorias e erros descobertos.
 
 ## Contribuicoes
 
