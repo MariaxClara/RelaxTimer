@@ -46,7 +46,7 @@
 
 ## SobreOProjeto
 
-<video src= "./img/TimeToRelax.gif"  width="300px" height="300px">
+[product-screenshot](https://siterelaxtime.netlify.app)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ut efficitur leo. Phasellus eleifend ipsum non nisi mattis sodales. Donec aliquam gravida nibh, vel commodo erat rutrum ut. Etiam elementum orci sed ligula accumsan, sit amet tempor eros posuere. Suspendisse suscipit, elit id gravida dapibus, lectus dui auctor magna, vel luctus ipsum dui a ipsum. Sed faucibus, dolor non iaculis semper, elit tellus blandit velit, non porttitor urna elit at felis. Nulla ultrices felis at lacus eleifend eleifend. Suspendisse eleifend quam a semper accumsan. Curabitur eros turpis, elementum volutpat nisl convallis, pharetra eleifend felis. Quisque faucibus, nisi non euismod ultricies, nunc velit lacinia odio, sit amet ultricies quam nunc id felis.
 
@@ -90,4 +90,4 @@ Link do Projeto: [https://github.com/MariaxClara/RelaxTimer](https://github.com/
 [issues-url]: https://github.com/MariaxClara/RelaxTimer/issues
 [linkedin-url]: https://linkedin.com
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[product-screenshot]: img/TimeToRelax.gif
+[product-screenshot]: /img/TimeToRelax.gif
